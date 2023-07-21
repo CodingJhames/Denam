@@ -6,28 +6,29 @@ This repository tracks my learning journey through the various courses offered o
 
 ### Courses Completed:
 
-Course Complete Intro to Web Development,
-    Topics Covered: Javascript, Css, HTML
-    Completed Exercises: Coffee Masters,Calculator
-    Projects: in progress
+1. Course Complete Intro to Web Development,
+    - Topics Covered: Javascript, Css, HTML
+    - Completed Exercises: Coffee Masters,Calculator
+    - Projects: in progress
 
 ### Next:
 
-Course Getting Started with CSS 
-    Topics Covered: CSS, Design to code
-    Completed Exercises: in progress
-    Projects: in progress
+2. Course Getting Started with CSS 
+    - Topics Covered: CSS, Design to code
+    - Completed Exercises: in progress
+    - Projects: in progress
 
 ### Work in Progress:
 
-Course Getting Started with CSS 
-    Progress: 1%
-    Last Updated: 07/21/2023
+- Course Getting Started with CSS 
+    - Progress: 1%
+    - Last Updated: 07/21/2023
 
 ### How to Use This Repository
 
 This repository is structured by course folders, and within each course folder, you will find the course materials, completed exercises, and project submissions. Feel free to explore the specific course folders to see my progress and the skills I have gained.
-Contribution and Feedback
+
+## Contribution and Feedback
 
 Feedback and suggestions are always welcome! If you find any errors, or if you have ideas on how I can improve my projects, feel free to create an issue or submit a pull request.
 
