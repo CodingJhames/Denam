@@ -1,0 +1,106 @@
+
+/* variables declared here - these are the colors for our pages, as well as the font stacks and sizes. */
+:root {
+    --dark-blue: #012E40;
+    --darker-aquamarine: #024959;
+    --aquamarine: #026773;
+    --jade: #3CA6A6;
+    --white: #F2E3D5;;
+    --font-size: 1.3rem;
+    --mono: "Oxygen mono", monospace;
+    --sans: Oxygen, sans-serif;
+    --garamond: "Garamond"
+}
+/* border box model: https://css-tricks.com/box-sizing/ */
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: var(--sans);
+    background-color: var(--dark-blue);
+    color: var(--white);
+    font-size: var(--font-size);
+}
+
+h1,h2,h3 {
+    margin: 0;
+}
+ 
+a {
+    color: var( --jade );
+}
+
+a:hover {
+    color:  var(--aquamarine );
+    text-decoration: none;
+}
+
+/* intro styles */
+
+#intro {
+    padding-bottom: 10rem;
+}
+
+#intro p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.name span {
+    font-family: var(--garamond);
+    font-size: 4rem;
+    display: block;
+}
+
+#intro h2 {
+    font-family: var(--garamond);
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+/* contact style */
+
+#contact {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    padding: 3rem 0;
+    background-color: var(--darker-aquamarine);
+
+}
+
+#contact p:last-child {
+    margin-top: 3rem;
+}
+
+/* nav style */
+
+nav {
+    font-family: var(--mono);
+    font-size: 80%;
+    padding: 1rem;
+}
+
+nav h1 a {
+    font-family: var(--sans);
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
