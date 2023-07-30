@@ -130,3 +130,14 @@ nav li:first-child {
     flex-basis: 100%;
     text-align: center;
 }
+
+.button {
+    background-color: var( --aquamarine );
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.button:hover {
+    color: var(--white);
+    background-color:  var(--jade) ;
+}
