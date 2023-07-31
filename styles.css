@@ -141,3 +141,44 @@ nav li:first-child {
     color: var(--white);
     background-color:  var(--jade) ;
 }
+
+@media ( min-width: 850px ) {
+    nav {
+        max-width: 1200px;
+        margin: 0  auto;
+    }
+    nav li:first-child {
+        flex-basis: auto;
+        text-align: left;
+        margin-right: auto;
+    }
+}
+
+/* Footer section */
+
+footer {
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 2rem 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 3rem;
+    font-size: 3rem;
+}
+
+@media ( min-width: 850px ) {
+    nav {
+        max-width: 1200px;
+        margin: 0  auto;
+    }
+    nav li:first-child {
+        flex-basis: auto;
+        text-align: left;
+        margin-right: auto;
+    }
+}
