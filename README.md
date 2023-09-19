@@ -9,20 +9,22 @@ This repository tracks my learning journey through the various courses offered o
 1. Course Complete Intro to Web Development,
     - Topics Covered: Javascript, Css, HTML
     - Completed Exercises: Coffee Masters,Calculator
-    - Projects: in progress
 
 ### Next:
 
 2. Course Getting Started with CSS 
     - Topics Covered: CSS, Design to code
-    - Completed Exercises: in progress
-    - Projects: in progress
+    - Completed Exercises: Portfolio Website
 
+3. Course CSS fpundations 
+    - Topics Covered: CSS
+    - Completed Exercises: 
+    
 ### Work in Progress:
 
-- Course Getting Started with CSS 
-    - Progress: 1%
-    - Last Updated: 07/21/2023
+- Course Course CSS fpundations
+    - Progress: 3%
+    - Last Updated: 19/09/2023
 
 ### How to Use This Repository
 
