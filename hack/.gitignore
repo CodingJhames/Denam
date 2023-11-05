@@ -1,0 +1,34 @@
+
+# Directorio del entorno virtual
+venv/
+
+# Archivos generados por Python (bytecode, logs, etc.)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Archivos y directorios específicos que no se deben subir (personalizados)
+data/
+config.ini
+secrets.json
+
+# Archivos de dependencias y registros de paquetes
+pip-log.txt
+requirements.txt
+
+# Archivos IDE/Editor (se adaptan a los IDE o editores que uses)
+.idea/
+.vscode/
+
+# Archivo para guardar el entorno virtual con pipenv
+Pipfile
+Pipfile.lock
+
+# Archivo que contiene las claves de autenticación de Git (en caso de uso)
+.git-credentials
+
+# Archivo de registro de errores
+error.log
